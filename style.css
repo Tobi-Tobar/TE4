@@ -14,3 +14,11 @@ font-family: 'Josefin Sans', sans-serif;
 
 a{
   color: #fff25f;
+  
+.onlyThis {
+    border-style: dashed solid;
+  }
+  
+ .onlyThat {
+   align-self: center;
+  }
